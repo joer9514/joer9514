@@ -12,7 +12,7 @@ const technologies = {
 };
 ```
 ___
-### ⚡⚡ [My portfolio Here!](https://joer9514.netlify.app) ⚡⚡
+### ⚡⚡ [My portfolio Here!](https://joer9514.netlify.app) ⚡⚡  💬💬 [Contact Me!](https://linkedin.com/in/joseespinosaramirez) 💬💬
 ___
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joer9514&show_icons=true&theme=dark)
