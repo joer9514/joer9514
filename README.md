@@ -2,8 +2,7 @@
 
 "Nothing is impossible for those who try".
 I am a software developer with experience and knowledge in web development. Among my most outstanding skills are: front-end development, web layout, responsive design, attention to detail and predisposition to face new challenges. The technologies I master the most are JavaScript, Python, MySQL, Html5, Css3, Figma. I am currently acquiring skills in Reactjs and Nodejs. ⚡
-
-
+___
 ```js
 const technologies = {
   lenguages: ["Javascript", "Python", "Sql", "Nodejs", "Html", "Css"],
@@ -11,8 +10,9 @@ const technologies = {
   tools: ["vscode", "Linux", "MySQL Workbench", "Figma"]
 };
 ```
+___
 ### [My portfolio Here!](https://joer9514.netlify.app)
-
+___
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joer9514&show_icons=true&theme=dark)
 
