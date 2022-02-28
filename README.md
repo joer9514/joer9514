@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Jose 👋
+
+"Nothing is impossible for those who try".
+I am a software developer with experience and knowledge in web development. Among my most outstanding skills are: front-end development, web layout, responsive design, attention to detail and predisposition to face new challenges. The technologies I master the most are JavaScript, Python, MySQL, Html5, Css3, Figma. I am currently acquiring skills in Reactjs and Nodejs. ⚡
+
+```js
+const technologies = {
+  lenguages: ["Javascript", "Python", "Sql", "Nodejs", "Html", "Css"],
+  frameworks: ["React", "Flask", "Express"],
+  tools: ["vscode", "Linux", "MySQL Workbench", "Figma"]
+};
+```
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joer9514&show_icons=true&theme=dark)
 
 <!--
 **joer9514/joer9514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
