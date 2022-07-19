@@ -1,19 +1,34 @@
-## Hi everyone, I'm Jose and I'm a Web Software Developer. 👋
+# Hi everyone, I'm Jose and I'm a Web Software Developer. 👋🏼
 
-"Nothing is impossible for those who try".
-I am a software developer with experience and knowledge in web development. Among my most outstanding skills are: front-end development, web layout, responsive design, attention to detail and predisposition to face new challenges. The technologies I master the most are JavaScript, Python, MySQL, Html5, Css3, Figma. I am currently acquiring skills in Reactjs and Nodejs.
-___
-### Technologies 😄 
-```js
-const technologies = {
-  lenguages: ["Javascript", "Python", "Sql", "Nodejs", "Html", "Css"],
-  frameworks: ["React", "Flask", "Express"],
-  tools: ["vscode", "Linux", "MySQL Workbench", "Figma"]
+Jose is a Developer who has participated in several projects, always contributing with his knowledge and his ability to adapt to change; he has worked with different technologies such as: React, TypeScript and JavaScript.
+
+## Technologies 👨🏽‍💻
+
+```ts
+import { ILanguages, ILibrary, IFrameworks, ITools } from '@/models';
+
+export interface ITechnologies {
+  languages: Array<ILanguages>;
+  library: Array<ILibrary>;
+  frameworks: Array<IFrameworks>;
+  tools: Array<ITools>;
+}
+
+export const technologiesList: ITechnologies = {
+  languages: [
+    'TypeScript',
+    'JavaScript',
+    'Python',
+    'Html',
+    'Css',
+    'Sass',
+    'Sql',
+  ],
+  library: ['React', 'Styled-Components'],
+  frameworks: ['...Learning FastApi'],
+  tools: ['Linux', 'Vscode', 'Trello', 'Figma', 'MySQL Workbench'],
 };
 ```
-___
-### ⚡⚡ [My portfolio Here!](https://joer9514.netlify.app) ⚡⚡  💬💬 [Contact Me!](https://linkedin.com/in/joseespinosaramirez) 💬💬
-___
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joer9514&show_icons=true&theme=dark)
 
