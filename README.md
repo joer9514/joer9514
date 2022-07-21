@@ -1,4 +1,4 @@
-# Hi everyone, I'm Jose and I'm a Web Software Developer. 👋🏼
+# Hi everyone, I'm Jose a Web Software Developer. 👋🏼
 
 Jose is a Developer who has participated in several projects, always contributing with his knowledge and his ability to adapt to change; he has worked with different technologies such as: React, TypeScript and JavaScript.
 
