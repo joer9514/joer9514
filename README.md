@@ -16,5 +16,5 @@ I am a passionate web developer specialized in creating modern applications, foc
 ```diff
 + React
 + TailwindCss
-+ FastAPI (I want to learn)
+- FastAPI (I want to learn)
 ```
