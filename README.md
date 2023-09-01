@@ -6,18 +6,18 @@ I'm a passionate software engineer specialized in creating modern applications, 
 ```diff
 + JavaScript / TypeScript
 + Python
-+ Php
 + SQl
 + MySQL
++ Docker
++ Firebase
++ Supabase
 + Css3
 + Html5
-+ Styled-Components
-+ Docker
 ```
-## Frameworks 👷🏻‍♂️
+## Frameworks or Libraries 👷🏻‍♂️
 ```diff
 + React
 + TailwindCss
-+ Laravel
++ Styled-Components
 - FastAPI (I want to learn)
 ```
