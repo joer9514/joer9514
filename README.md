@@ -10,8 +10,9 @@ I'm a passionate software engineer specialized in creating modern applications, 
 + MySQL
 + Docker
 + Firebase
-+ Supabase
+- Supabase (I want to learn)
 + Css3
++ Scss
 + Html5
 ```
 ## Frameworks or Libraries 👷🏻‍♂️
