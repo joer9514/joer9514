@@ -19,6 +19,6 @@ I'm a passionate software engineer specialized in creating modern applications, 
 ```diff
 + React
 + TailwindCss
-+ Styled-Components
-- FastAPI (I want to learn)
++ FastAPI
++ SQLModel
 ```
